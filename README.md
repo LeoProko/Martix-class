@@ -10,4 +10,3 @@ This class may help you to make matrix calculation easier.
 - <img src="https://latex.codecogs.com/gif.latex?A\cdot\lambda%20:A\in%20Mat_{m\times%20n},\lambda%20\in%20R^n" /> 
 - <img src="https://latex.codecogs.com/gif.latex?A\cdot%20B%20:A\in%20Mat_{m\times%20n},B\in%20Mat_{n\times%20p}" /> 
 
-
