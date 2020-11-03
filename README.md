@@ -1,10 +1,10 @@
 # Martix-class
 
-This class can help you to simplify the calculation wuth matrices.
+## This class can help you to simplify the calculation wuth matrices.
 
 <br />
 
-### Included operations (if impossible to perform an action, then an error is raised):
+#### Included operations (if impossible to perform an action, then an error is raised):
 
 <br />
 
