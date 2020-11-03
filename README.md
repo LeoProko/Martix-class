@@ -1,6 +1,8 @@
 # Martix-class
 
-This class may help you to make matrix calculation easier.
+This class can help you to simplify the calculation wuth matrices.
+
+<br />
 
 ### Included operations (if impossible to perform an action, then an error is raised):
 
