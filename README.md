@@ -4,8 +4,10 @@ This class may help you to make matrix calculation easier.
 
 ### Included operations:
 
-- +, C:= A + B
-- <img src="https://latex.codecogs.com/gif.latex?A\cdot\lambda%:A\in%Mat_{m\times%n}" /> 
+<img src="" /> 
+
+- <img src="https://latex.codecogs.com/gif.latex?+,%20A%20+%20B:%20\;%20A,B,%20C%20\in%20Mat_{m%20\times%20n}" /> 
+- <img src="https://latex.codecogs.com/gif.latex?A\cdot\lambda%20:A\in%20Mat_{m\times%20n},\lambda%20\in%20R^n" /> 
+- <img src="https://latex.codecogs.com/gif.latex?A\cdotB%20:A\in%20Mat_{m\times%20n},A\cdotB%20:A\in%20Mat_{n\times%20p}" /> 
 
 
-<img src="https://latex.codecogs.com/gif.latex?C:=A+B,\;A,B,C\in%20Mat_{m\times%20n}" /> 
